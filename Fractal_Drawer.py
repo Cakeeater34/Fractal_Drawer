@@ -13,7 +13,7 @@ max_range = 50
 x_range = (-2, 2)
 y_range = (2, -2)
 width, height = 600, 600
-power = -2
+power = 2
 c_multiplyer = 1
 
 #Input to change variables
